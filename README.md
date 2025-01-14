@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @my-dimons
-- 👀 Interested in: Photography📷, Game Coding 🧑‍💻, and Video Games 🎮
+- 👀 Interested in: Photography📷, 3d Modeling (Blender), and Video Games 🎮
 - 🌱 Currently Learning: Java☕, Python🐍, Unity 🔗
 - 💞️ Looking to collaborate on: Nothing 👎
 - 📫 Email me at mydimons.kb@gmail.com

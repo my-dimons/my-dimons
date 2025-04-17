@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @my-dimons
-- 👀 Interested in: Photography📷, 3d Modeling (Blender), and Video Games 🎮
-- 🌱 Currently Learning: Java☕, Python🐍, Unity 🔗
+- 👀 Interested in: Photography📷, Programming 🧑‍💻, and Video Games 🎮
+- 🌱 Currently Learning: Unity 🔗, Pixel Art 🟧🟨🟩
 - 💞️ Looking to collaborate on: Nothing 👎
 - 📫 Email me at mydimons.kb@gmail.com
 - 😄 Pronouns: He/Him

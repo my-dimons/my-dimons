@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @my-dimons
-- 👀 Interested in: Photography📷, Programming 🧑‍💻, and Video Games 🎮
+- 👀 Interested in: Photography📷, Programming 💻, and Video Games 🎮
 - 🌱 Currently Learning: Unity 🔗, Pixel Art 🟧🟨🟩
 - 💞️ Looking to collaborate on: Nothing 👎
 - 📫 Email me at mydimons.kb@gmail.com

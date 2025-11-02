@@ -5,8 +5,10 @@
 - 📫 Email me at mydimons.kb@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun Facts!:
-  - I got my username by misspelling mydiamonds (when I was like 9), My profile picture is 1 of my 2 dumb cats on a door
-  - I use a modified verision of monokai-spectrum as my visual studio theme: [try it here!](https://drive.google.com/file/d/1C8l0R9Bvs1_a5IDRtbOHhIxyGseZflAA/view?usp=sharing)
+  - I got my username by misspelling mydiamonds (when I was like 9)
+  - I have 2 cats (Chicken, and Pepper)
+  - My profile picture is Pepper on a door
+  - I use a modified verision of [monokai-spectrum](https://marketplace.visualstudio.com/items?itemName=KristofferHopland.MonokaiTheme) as my visual studio theme: [try it here!](https://github.com/my-dimons/Dimo)
 
 <!---
 my-dimons/my-dimons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

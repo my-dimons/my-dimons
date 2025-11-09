@@ -11,6 +11,8 @@ I'm a young programmer who got interested in **Unity** when I was ~12. View my U
 # 🤖 Robotics
 I do some [FIRST robotics](https://www.firstinspires.org/programs/frc/) programming on the [Esquimalt Atom Smashers (7287/20025)](https://github.com/Esquimalt-Atom-Smashers). I am mainly focusing on _FRC_ in 2025/2026, but do a little bit of _FTC_ on the side.
 
+I tried to start as a programmer in FTC, joining The Atom Smashers. After a bit I figured out that I didn't want to do programming (At least this year), and moved to drive team as the operator. This was the 2024/2025 FTC season of "Into the Deep". We made it past Qualifiers, but didn't get past Provincials. In the 2025/2026 season I moved to be a FRC programmer. 
+
 # ⚡ Fun Facts!
 - I got my username by misspelling mydiamonds (when I was like 9) <br>
 - I have 2 cats (Chicken, and Pepper)

@@ -4,7 +4,12 @@
 I'm a young programmer who got interested in **Unity** when I was ~12. View my Unity games on my [itch.io](https://mydimons.itch.io/), and watch videos I make on my games on [Youtube](https://www.youtube.com/@mydimons_). I also know a bit of [Blender](https://www.blender.org/download/), but I haven't used it recently.
 
 
-💫 My Best Game: [**Spinblade**](https://mydimons.itch.io/spin-blade)
+💫 My Games: 
+- [**Spinblade**](https://mydimons.itch.io/spin-blade)
+- [**Pong+**](https://mydimons.itch.io/pong)
+- [**OMLU**](https://mydimons.itch.io/omlu)
+- [**Cannoon**](https://mydimons.itch.io/cannoon)
+- [**Whack A Mouse**](https://mydimons.itch.io/whack-a-mouse)
 
 ⭐ Favourite Games: _Celesete, Hollow Knight (Silksong and Original), and Terraria_
 

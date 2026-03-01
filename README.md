@@ -2,6 +2,11 @@
   
 👋 Hi, I’m [@my-dimons](https://github.com/my-dimons), 📫 Email me at mydimons.kb@gmail.com, 😄 Pronouns: He/Him
 
+[![Bluesky](https://github.com/user-attachments/assets/c42849ae-503e-4883-8445-6985bb8958b5)](https://bsky.app/profile/mydimons.bsky.social)
+[![Youtube](https://github.com/user-attachments/assets/9106e076-6d17-4149-bbac-801c28b81d41)](https://www.youtube.com/@my-dimons)
+[![discord](https://github.com/user-attachments/assets/a918151d-f2d2-4085-ab63-6b0ac0808e4a)](https://discord.gg/3MNAGP7ZfS)
+
+
 # 🎮 Game Development 🎮
 
 I'm a young programmer who got interested in **Unity** when I was ~12. View my Unity games on my [itch.io](https://mydimons.itch.io/), and watch videos I make on my games on [Youtube](https://www.youtube.com/@mydimons_). I also know a bit of [Blender](https://www.blender.org/download/), but I haven't used it recently.

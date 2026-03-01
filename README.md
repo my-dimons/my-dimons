@@ -5,6 +5,8 @@
 [![Bluesky](https://github.com/user-attachments/assets/c42849ae-503e-4883-8445-6985bb8958b5)](https://bsky.app/profile/mydimons.bsky.social)
 [![Youtube](https://github.com/user-attachments/assets/9106e076-6d17-4149-bbac-801c28b81d41)](https://www.youtube.com/@my-dimons)
 [![discord](https://github.com/user-attachments/assets/a918151d-f2d2-4085-ab63-6b0ac0808e4a)](https://discord.gg/3MNAGP7ZfS)
+[![flickr](https://github.com/user-attachments/assets/1ef7b4bf-4552-48cd-bb5e-566068a71919)](https://www.flickr.com/photos/mydimons/)
+
 
 
 # 🎮 Game Development 🎮

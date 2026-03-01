@@ -10,11 +10,11 @@ I'm a young programmer who got interested in **Unity** when I was ~12. View my U
 
 ## 💫 My Games 💫
   
-[<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/77299d3e-0783-4f48-b741-dda94d31a353" />](https://mydimons.itch.io/spin-blade)
-[<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/e00426a3-4fce-4b95-af3e-3e214907f8bb" />](https://mydimons.itch.io/omlu) 
-[<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/850fab12-947c-445f-934f-564a8d3382e5" />](https://mydimons.itch.io/pong)
-[<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/03411416-9935-423a-977c-68080a2b080e" />](https://mydimons.itch.io/cannoon)
-[<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/eeb26900-8155-4ff7-8ea3-5bed005f3ce4" />](https://mydimons.itch.io/whack-a-mouse)
+[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/77299d3e-0783-4f48-b741-dda94d31a353" />](https://mydimons.itch.io/spin-blade)
+[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/e00426a3-4fce-4b95-af3e-3e214907f8bb" />](https://mydimons.itch.io/omlu) 
+[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/850fab12-947c-445f-934f-564a8d3382e5" />](https://mydimons.itch.io/pong)
+[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/03411416-9935-423a-977c-68080a2b080e" />](https://mydimons.itch.io/cannoon)
+[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/eeb26900-8155-4ff7-8ea3-5bed005f3ce4" />](https://mydimons.itch.io/whack-a-mouse)
 
 ⭐ Favourite Games: _Celesete, Hollow Knight (Silksong and Original), and Terraria_
 

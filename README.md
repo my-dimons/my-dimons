@@ -2,26 +2,35 @@
   
 👋 Hi, I’m [@my-dimons](https://github.com/my-dimons), 📫 Email me at mydimons.kb@gmail.com, 😄 Pronouns: He/Him
 
+# ❔Who Am I ❔
+I am a programmer who got interested in programming when I was **~12**. I got really into programming when I started using Unity, making games in my free time. I then started learning many more programming languages over the years, and made many more games. View some of my coding projects on my [Youtube](https://www.youtube.com/@mydimons_), I also usually make a GitHub repo on my projects. When I went into highschool I joined robotics, joining the 2024-2025 season as the FTC *operator*. I'm continuing to learn new languages, make new games, and do some random projects.
+
+<img width="80" height="80" alt="C#" src="https://github.com/user-attachments/assets/500d6a47-a33e-438e-84b1-75ceb170f209" />
+<img width="80" height="80" alt="C++" src="https://github.com/user-attachments/assets/2ac55629-d994-4493-8327-e7bbda41628d" />
+<img width="80" height="80" alt="Python" src="https://github.com/user-attachments/assets/91fe668d-2041-4a51-9437-01a0809e9b49" />
+<img width="80" height="80" alt="Java" src="https://github.com/user-attachments/assets/9f292613-83a0-4dee-9556-9627aa2db711" />
+
+## 🎮 Game Development 🎮
+
+I started making games on September 1st, 2023, going through Unity's [Create With Code](https://learn.unity.com/course/create-with-code) course. After finishing most of the course I started making [**Zombie Blast**](https://www.youtube.com/playlist?list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ), a game I misserably failed at making, learning a valuable lesson on how to not make games (Explained in [this videos description](https://www.youtube.com/watch?v=qPqOn-9KDj8&list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ&index=1)). <br><br>
+
+After taking a break I made [Ted 'n Seek](https://mydimons.itch.io/ted-n-seek), a game I was quite proud of, starting my long journey into game dev.
+I then made a few msc games here and there, but eventually started my next big game: [Cannoon](https://mydimons.itch.io/cannoon). I learnt a LOT from [Cannoon](https://mydimons.itch.io/cannoon), greatly increasing my coding ability. <br><br>
+
+After making [OMLU](https://mydimons.itch.io/omlu), a short game I spent <1 month making, I joined the [2025 GMTK Game Jam](https://itch.io/jam/gmtk-2025) where I made my best game at the time: [Spinblade](https://mydimons.itch.io/spin-blade). I spent 4 days making Spinblade, spending 8+ hours a day working on Spinblade. I got [#282](https://itch.io/jam/gmtk-2025/rate/3766048) in Entertainment (Top 3%), and made a [video](https://www.youtube.com/watch?v=_zdxsi5iqLE&t=1s) on this which got 1.1k views. I would then go and spend a few months revamping it, making it much better ([v2.0](https://mydimons.itch.io/spin-blade/devlog/1004497/v20-revamping-spinblade)). After seeing some success in the revamp, I went back and made another update (v3.0 WIP). I hope to eventually release Spinblade to mobile on the App Store. <br><br>
+
+With Spinblade finished I hope to work on a new game (called Hexafarm) and to release it to Steam.
 
 
+### 💫 My Games 💫
 
-# 🎮 Game Development 🎮
+[<img width="157" height="125" alt="Spinblade" src="https://github.com/user-attachments/assets/77299d3e-0783-4f48-b741-dda94d31a353" />](https://mydimons.itch.io/spin-blade)
+[<img width="157" height="125" alt="OMLU" src="https://github.com/user-attachments/assets/e00426a3-4fce-4b95-af3e-3e214907f8bb" />](https://mydimons.itch.io/omlu) 
+[<img width="157" height="125" alt="Pong+" src="https://github.com/user-attachments/assets/850fab12-947c-445f-934f-564a8d3382e5" />](https://mydimons.itch.io/pong)
+[<img width="157" height="125" alt="Cannoon" src="https://github.com/user-attachments/assets/03411416-9935-423a-977c-68080a2b080e" />](https://mydimons.itch.io/cannoon)
+[<img width="157" height="125" alt="Whack-A-Mouse" src="https://github.com/user-attachments/assets/eeb26900-8155-4ff7-8ea3-5bed005f3ce4" />](https://mydimons.itch.io/whack-a-mouse)
 
-I'm a young programmer who got interested in **Unity** when I was ~12. View my Unity games on my [itch.io](https://mydimons.itch.io/), and watch videos I make on my games on [Youtube](https://www.youtube.com/@mydimons_). I also know a bit of [Blender](https://www.blender.org/download/), but I haven't used it recently.
-
-
-
-## 💫 My Games 💫
-  
-[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/77299d3e-0783-4f48-b741-dda94d31a353" />](https://mydimons.itch.io/spin-blade)
-[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/e00426a3-4fce-4b95-af3e-3e214907f8bb" />](https://mydimons.itch.io/omlu) 
-[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/850fab12-947c-445f-934f-564a8d3382e5" />](https://mydimons.itch.io/pong)
-[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/03411416-9935-423a-977c-68080a2b080e" />](https://mydimons.itch.io/cannoon)
-[<img width="157" height="125" alt="image" src="https://github.com/user-attachments/assets/eeb26900-8155-4ff7-8ea3-5bed005f3ce4" />](https://mydimons.itch.io/whack-a-mouse)
-
-⭐ Favourite Games: _Celesete, Hollow Knight (Silksong and Original), and Terraria_
-
-# 🤖 Robotics 🤖
+## 🤖 Robotics 🤖
 <!--- Format robotics images with 20px stoke--->
 
 <table align="center">
@@ -91,10 +100,6 @@ I'm a programmer on the [Esquimalt Atom Smashers](https://github.com/Esquimalt-A
   </tr>
 </table>
 
-# ⚡ Fun Facts!⚡
-I got my username by misspelling ***mydiamonds*** (when I was like 9) <br>
-I have 2 cats (Chicken, and Pepper) <br>
-My profile picture is Pepper on a door <br>
 
 # ✅ IDE's ✅
 ### <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f18f73e6-1fb0-4d8f-aed0-e9830633c1a1" /> Microsoft Visual Studio <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f18f73e6-1fb0-4d8f-aed0-e9830633c1a1" />
@@ -118,6 +123,11 @@ Font: [JetBrains Mono <img width="15" height="15" alt="image" src="https://githu
 ](https://www.jetbrains.com/lp/mono/)
 
 <br>
+
+# ⚡ Fun Facts!⚡
+I got my username by misspelling ***mydiamonds*** (when I was like 9) <br>
+I have 2 cats (Chicken, and Pepper) <br>
+My profile picture is Pepper on a door <br><br>
 
 [![itch](https://github.com/user-attachments/assets/ccbbfdb9-9d2d-4a99-983a-c895ace8552a)](https://mydimons.itch.io/)
 [![Bluesky](https://github.com/user-attachments/assets/c42849ae-503e-4883-8445-6985bb8958b5)](https://bsky.app/profile/mydimons.bsky.social)

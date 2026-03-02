@@ -3,7 +3,9 @@
 👋 Hi, I’m [@my-dimons](https://github.com/my-dimons), 📫 Email me at mydimons.kb@gmail.com, 😄 Pronouns: He/Him
 
 # ❔Who Am I ❔
-I am a programmer who got interested in programming when I was **~12**. I got really into programming when I started using Unity, making games in my free time. I then started learning many more programming languages over the years, and made many more games. View some of my coding projects on my [Youtube](https://www.youtube.com/@mydimons_), I also usually make a GitHub repo on my projects. When I went into highschool I joined robotics, joining the 2024-2025 season as the FTC *operator*. I'm continuing to learn new languages, make new games, and do some random projects.
+I am a programmer who got interested in programming when I was **~12**. I got really into programming when I started using Unity, making games in my free time. I then started learning many more programming languages over the years, and made many more games. View some of my coding projects on my [Youtube](https://www.youtube.com/@mydimons_), I also usually make a GitHub repo on my projects. <br><br>
+
+When I went into highschool I joined robotics, joining the 2024-2025 season as the FTC *operator*. I'm continuing to learn new languages, make new games, and do some random projects. <br>
 
 <img width="80" height="80" alt="C#" src="https://github.com/user-attachments/assets/500d6a47-a33e-438e-84b1-75ceb170f209" />
 <img width="80" height="80" alt="C++" src="https://github.com/user-attachments/assets/2ac55629-d994-4493-8327-e7bbda41628d" />

@@ -149,6 +149,8 @@ My profile picture is Pepper on a door <br><br>
     src="https://raw.githubusercontent.com/my-dimons/my-dimons/output/github-contribution-grid-snake.svg"
   />
 </picture>
+Contribution Snake Grid by [Platane](https://github.com/Platane/snk)
+<br>
 
 [![itch](https://github.com/user-attachments/assets/ccbbfdb9-9d2d-4a99-983a-c895ace8552a)](https://mydimons.itch.io/)
 [![Bluesky](https://github.com/user-attachments/assets/c42849ae-503e-4883-8445-6985bb8958b5)](https://bsky.app/profile/mydimons.bsky.social)

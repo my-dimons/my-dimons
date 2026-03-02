@@ -135,6 +135,21 @@ I got my username by misspelling ***mydiamonds*** (when I was like 9) <br>
 I have 2 cats (Chicken, and Pepper) <br>
 My profile picture is Pepper on a door <br><br>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gold872/Gold872/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gold872/Gold872/output/github-contribution-grid-snake-light.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Gold872/Gold872/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 [![itch](https://github.com/user-attachments/assets/ccbbfdb9-9d2d-4a99-983a-c895ace8552a)](https://mydimons.itch.io/)
 [![Bluesky](https://github.com/user-attachments/assets/c42849ae-503e-4883-8445-6985bb8958b5)](https://bsky.app/profile/mydimons.bsky.social)
 [![Youtube](https://github.com/user-attachments/assets/9106e076-6d17-4149-bbac-801c28b81d41)](https://www.youtube.com/@my-dimons)

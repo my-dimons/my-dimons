@@ -11,6 +11,8 @@ When I went into highschool I joined robotics, joining the 2024-2025 season as t
 <img width="80" height="80" alt="C++" src="https://github.com/user-attachments/assets/2ac55629-d994-4493-8327-e7bbda41628d" />
 <img width="80" height="80" alt="Python" src="https://github.com/user-attachments/assets/91fe668d-2041-4a51-9437-01a0809e9b49" />
 <img width="80" height="80" alt="Java" src="https://github.com/user-attachments/assets/9f292613-83a0-4dee-9556-9627aa2db711" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/06c735dd-226c-4dd7-b674-78bea6813b7e" />
+
 
 ## 🎮 Game Development 🎮
 

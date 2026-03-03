@@ -7,13 +7,6 @@ I am a programmer who got interested in programming when I was **~12**. I got re
 
 When I went into highschool I joined robotics, joining the 2024-2025 season as the FTC *operator*. I'm continuing to learn new languages, make new games, and do some random projects. <br>
 
-<img width="80" height="80" alt="C#" src="https://github.com/user-attachments/assets/500d6a47-a33e-438e-84b1-75ceb170f209" />
-<img width="80" height="80" alt="C++" src="https://github.com/user-attachments/assets/2ac55629-d994-4493-8327-e7bbda41628d" />
-<img width="80" height="80" alt="Python" src="https://github.com/user-attachments/assets/91fe668d-2041-4a51-9437-01a0809e9b49" />
-<img width="80" height="80" alt="Java" src="https://github.com/user-attachments/assets/9f292613-83a0-4dee-9556-9627aa2db711" />
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/06c735dd-226c-4dd7-b674-78bea6813b7e" />
-
-
 ## 🎮 Game Development 🎮
 
 I started making games on September 1st, 2023, going through Unity's [Create With Code](https://learn.unity.com/course/create-with-code) course. After finishing most of the course I started making [**Zombie Blast**](https://www.youtube.com/playlist?list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ), a game I misserably failed at making, learning a valuable lesson on how to not make games (Explained in [this videos description](https://www.youtube.com/watch?v=qPqOn-9KDj8&list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ&index=1)). <br><br>
@@ -151,6 +144,17 @@ My profile picture is Pepper on a door <br><br>
 </picture>
 
 Contribution Snake Grid by [Platane](https://github.com/Platane/snk)
+<br><br>
+
+<img width="80" height="80" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="80" height="80" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img width="80" height="80" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img width="80" height="80" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img width="80" height="80" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="80" height="80" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="80" height="80" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="80" height="80" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ 
 <br>
 
 [![itch](https://github.com/user-attachments/assets/ccbbfdb9-9d2d-4a99-983a-c895ace8552a)](https://mydimons.itch.io/)

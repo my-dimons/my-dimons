@@ -149,6 +149,7 @@ My profile picture is Pepper on a door <br><br>
     src="https://raw.githubusercontent.com/my-dimons/my-dimons/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 Contribution Snake Grid by [Platane](https://github.com/Platane/snk)
 <br>
 

@@ -19,7 +19,7 @@ After making [OMLU](https://mydimons.itch.io/omlu), a short game I spent <1 mont
 With Spinblade finished I hope to work on a new game (called Hexafarm) and to release it to Steam.
 
 
-### 💫 My Games 💫
+## 💫 My Games 💫
 
 [<img width="157" height="125" alt="Spinblade" src="https://github.com/user-attachments/assets/77299d3e-0783-4f48-b741-dda94d31a353" />](https://mydimons.itch.io/spin-blade)
 [<img width="157" height="125" alt="OMLU" src="https://github.com/user-attachments/assets/e00426a3-4fce-4b95-af3e-3e214907f8bb" />](https://mydimons.itch.io/omlu) 

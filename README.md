@@ -9,7 +9,9 @@ When I went into highschool I joined robotics, joining the 2024-2025 season as t
 
 ## 🎮 Game Development 🎮
 
-I started making games on September 1st, 2023, going through Unity's [Create With Code](https://learn.unity.com/course/create-with-code) course. After finishing most of the course I started making [**Zombie Blast**](https://www.youtube.com/playlist?list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ), a game I misserably failed at making, learning a valuable lesson on how to not make games (Explained in [this videos description](https://www.youtube.com/watch?v=qPqOn-9KDj8&list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ&index=1)). <br><br>
+I started making games on September 1st, going through Unity's [Create With Code](https://learn.unity.com/course/create-with-code) course. I have made a few successful projects, with my biggest one currently being [Spinblade](https://mydimons.itch.io/spin-blade). I continue to make games and want to eventually release a successful game to steam.
+
+<!--- I started making games on September 1st, 2023, going through Unity's [Create With Code](https://learn.unity.com/course/create-with-code) course. After finishing most of the course I started making [**Zombie Blast**](https://www.youtube.com/playlist?list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ), a game I misserably failed at making, learning a valuable lesson on how to not make games (Explained in [this videos description](https://www.youtube.com/watch?v=qPqOn-9KDj8&list=PLjrzpl_K_WMy0_Wc7IdUYuucKrYO6P3PJ&index=1)). <br><br>
 
 After taking a break I made [Ted 'n Seek](https://mydimons.itch.io/ted-n-seek), a game I was quite proud of, starting my long journey into game dev.
 I then made a few msc games here and there, but eventually started my next big game: [Cannoon](https://mydimons.itch.io/cannoon). I learnt a LOT from [Cannoon](https://mydimons.itch.io/cannoon), greatly increasing my coding ability. <br><br>
@@ -18,6 +20,7 @@ After making [OMLU](https://mydimons.itch.io/omlu), a short game I spent <1 mont
 
 With Spinblade finished I hope to work on a new game (called Hexafarm) and to release it to Steam.
 
+--->
 
 ## 💫 My Games 💫
 
@@ -73,7 +76,7 @@ I'm a programmer on the [Esquimalt Atom Smashers](https://github.com/Esquimalt-A
   <tr>
     <td colspan="3" align="center" valign="middle">
 
-<br>In the 2025-2026 season I moved to team `7287` as a **programmer**. <br><br>
+<br>In the 2025-2026 season I moved to team `7287` as a **programmer**. We went to the 2026 Canadian Pacific Regional and won [Impact](https://frc-events.firstinspires.org/2026/BCVI/awards) and were able to go to **_worlds_** in Texas! <br><br>
 ‎ 
   </tr>
   <tr>
@@ -94,7 +97,7 @@ I'm a programmer on the [Esquimalt Atom Smashers](https://github.com/Esquimalt-A
   <tr>
     <td colspan="3" align="center" valign="middle">
       
-<br>In the 2024-2025 season I tried to start as a FTC programmer on team `20025`, but moved to the drive team as the **operator**. We made it past **Qualifiers**, but didn't get past **Provincials**. <br><br>
+<br>In the 2024-2025 season I tried to start as a FTC programmer on team `20025`, but moved to the drive team as the **operator**. We made it past **Qualifiers**, but didn't get past **Provincials** in FTC. In FRC we went to the 2025 Canadian Pacific Regional but did _not_ advance to worlds. <br><br>
 ‎ 
   </tr>
 </table>

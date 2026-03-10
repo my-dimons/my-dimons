@@ -166,7 +166,9 @@ Contribution Snake Grid by [Platane](https://github.com/Platane/snk)
 <img width="80" height="80" alt="Premiere Pro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
 <img width="80" height="80" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
     
-<br><br>
+<br>
+
+## 📢 Socials 📢
 
 [![itch](https://github.com/user-attachments/assets/ccbbfdb9-9d2d-4a99-983a-c895ace8552a)](https://mydimons.itch.io/)
 [![Bluesky](https://github.com/user-attachments/assets/c42849ae-503e-4883-8445-6985bb8958b5)](https://bsky.app/profile/mydimons.bsky.social)

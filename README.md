@@ -130,7 +130,7 @@ Font: [JetBrains Mono <img width="15" height="15" alt="image" src="https://githu
 I got my username by misspelling ***mydiamonds*** (when I was like 9) <br>
 I have 2 cats (Chicken, and Pepper) <br>
 My profile picture is Pepper on a door <br><br>
-
+<!---
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -148,6 +148,7 @@ My profile picture is Pepper on a door <br><br>
 
 Contribution Snake Grid by [Platane](https://github.com/Platane/snk)
 <br><br>
+--->
 
 ## 🛠️ Languages 🛠️
 <img width="80" height="80" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />

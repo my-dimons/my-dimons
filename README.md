@@ -24,7 +24,7 @@ With Spinblade finished I hope to work on a new game (called Hexafarm) and to re
 
 ## 💫 My Games 💫
 
-[<img width="157" height="125" alt="Spinblade" src="https://github.com/user-attachments/assets/77299d3e-0783-4f48-b741-dda94d31a353" />](https://mydimons.itch.io/spin-blade)
+[<img width="157" height="125" alt="Spinblade" src="https://github.com/user-attachments/assets/7fb669ee-e8b4-4a7f-9bd3-9245f0e657b3" />](https://mydimons.itch.io/spin-blade)
 [<img width="157" height="125" alt="OMLU" src="https://github.com/user-attachments/assets/e00426a3-4fce-4b95-af3e-3e214907f8bb" />](https://mydimons.itch.io/omlu) 
 [<img width="157" height="125" alt="Pong+" src="https://github.com/user-attachments/assets/850fab12-947c-445f-934f-564a8d3382e5" />](https://mydimons.itch.io/pong)
 [<img width="157" height="125" alt="Cannoon" src="https://github.com/user-attachments/assets/03411416-9935-423a-977c-68080a2b080e" />](https://mydimons.itch.io/cannoon)

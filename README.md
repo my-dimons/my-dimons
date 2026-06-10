@@ -41,14 +41,9 @@
   <img width="8">
 </div>
 
-<!---
-my-dimons/my-dimons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<h3 align="left">stats.</h3>
+<a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"/></a>
 
---->
-
-
- 
 <!---
 cool secret comment
 --->

@@ -1,6 +1,6 @@
-“A jack of all trades is a master of none, but often times better than a master of one.”
+*“A jack of all trades is a master of none, but often times better than a master of one.”*
 
-<h3 align="left">LANGUAGES</h3>
+<h3 align="left">languages.</h3>
 <div align="left>
   
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img width="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
@@ -18,16 +18,28 @@
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
 </div>
 
-### PROGRAMS
-<img width="50" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img width="50" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width="50" alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img width="50" alt="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" />
-<img width="50" alt="Premiere Pro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
-<img width="50" alt="After Effects" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-<img width="50" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-<img width="50" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img width="50" alt="Audacity" src="https://github.com/user-attachments/assets/21a1c8ce-ffb2-4ec5-9ecf-8b55c3a77daa"/>
+<h3 align="left">programs.</h3>
+<div align="left>
+  
+  <a href="https://visualstudio.microsoft.com"/><img width="40" alt="Microsoft Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>
+  <img width="8">
+  <a href="https://code.visualstudio.com/download"><img width="40" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
+  <img width="8">
+  <a href="https://www.blender.org/download/"><img width="40" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" /></a>
+  <img width="8">
+  <a href="https://unity.com/"><img width="40" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /></a>
+  <img width="8">
+  <a href="https://www.audacityteam.org/"><img width="40" alt="Audacity" src="https://github.com/user-attachments/assets/21a1c8ce-ffb2-4ec5-9ecf-8b55c3a77daa"/></a>
+  <img width="8">
+  <a href="https://www.adobe.com/products/photoshop.html"><img width="40" alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /></a>
+  <img width="8">
+  <a href="https://www.adobe.com/products/illustrator.html"><img width="40" alt="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" /></a>
+  <img width="8">
+  <a href="https://www.adobe.com/ca/products/premiere.html"><img width="40" alt="Premiere Pro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" /></a>
+  <img width="8">
+  <a href="https://www.adobe.com/ca/products/aftereffects.html"><img width="40" alt="After Effects" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" /></a>
+  <img width="8">
+</div>
 
 <!---
 my-dimons/my-dimons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

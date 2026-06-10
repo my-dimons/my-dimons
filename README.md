@@ -40,9 +40,8 @@
   <a href="https://www.adobe.com/ca/products/aftereffects.html"><img width="40" alt="After Effects" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" /></a>
   <img width="8">
 </div>
-
-<h3 align="left">stats.</h3>
-<a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"/></a>
+<br>
+<a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&theme=dark"/></a>
 
 <!---
 cool secret comment

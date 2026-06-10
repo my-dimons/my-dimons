@@ -41,7 +41,7 @@
   <img width="8">
 </div>
 <br>
-<a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&theme=dark"/></a>
+<a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&locale=en&theme=dark"/></a>
 
 <!---
 cool secret comment

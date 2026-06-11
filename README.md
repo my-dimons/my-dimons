@@ -34,6 +34,41 @@
     </td>
   </tr>
 </table>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cs"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cpp"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=py"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=javascript"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=pr"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ae"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ae"/></a>
+
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=qt"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=css"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=swift"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=arch"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=arduino"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=godot"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=unreal"/></a>
   
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img width="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
   <img width="8">
@@ -52,6 +87,25 @@
 
 <h3 align="left">programs</h3>
 <div align="left>
+  
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=vscode"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=blender"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=unity"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ps"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=pr"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ae"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ae"/></a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ai"/></a>
   
   <a href="https://visualstudio.microsoft.com"/><img width="40" alt="Microsoft Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>
   <img width="8">
@@ -75,8 +129,13 @@
 </details>
 
 <details>
-  <summary>Connect</summary>
-  
+  <summary>Socials</summary>
+  <a href="pawprintstudios.com">
+    <img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="pawprintstudios.com">
+    <img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="pawprintstudios.com">
+    <img src="https://skillicons.dev/icons?i=discord"/></a>
 </details>
 
 <details>
@@ -94,6 +153,13 @@ README Inspiritaion:
   
 Tools used:
   - https://github.com/tandpfun/skill-icons
-  
+
+todo:
+  - add icons for:
+    - youtube
+    - wpilib
+    - linkree
+    
+    
 cool secret comment
 --->

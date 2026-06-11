@@ -111,6 +111,12 @@
 <details>
   <summary>Stats</summary>
 <a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&locale=en&theme=dark"/></a>
+  
+[![Visits Badge](https://badges.pufler.dev/visits/my-dimons/my-dimons)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/my-dimons)](https://badges.pufler.dev)
+<br/>
+[![Years Badge](https://badges.pufler.dev/years/my-dimons)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/my-dimons/my-dimons)](https://badges.pufler.dev)
 </details>
 
 

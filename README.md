@@ -1,7 +1,39 @@
-*“A jack of all trades is a master of none, but often times better than a master of one.”*
+<h3 align="center"><i>“A jack of all trades is a master of none, but often times better than a master of one.”</i></h3>
+<p align="center"><i>- some person, long ago</i></p>
 
-<h3 align="left">languages.</h3>
-<div align="left>
+<details>
+<summary>Skills</summary>
+  <table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Languages</h3>
+      <br/>
+      1
+      2
+      3
+      4
+      <br/>
+      <h3>Programs</h3>
+      <br/>
+      1
+      2
+      3
+    </td>
+    <td valign="top" width="50%">
+      <h3>Currently Learning</h3>
+      <br/>
+      1
+      2
+      3
+      <br/>
+      <h3>Interested in learning</h3>
+      <br/>
+      1
+      2
+      3
+    </td>
+  </tr>
+</table>
   
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img width="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
   <img width="8">
@@ -16,9 +48,9 @@
   <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"> <img width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
   <img width="8">
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"> <img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
-</div>
 
-<h3 align="left">programs.</h3>
+
+<h3 align="left">programs</h3>
 <div align="left>
   
   <a href="https://visualstudio.microsoft.com"/><img width="40" alt="Microsoft Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>
@@ -40,9 +72,28 @@
   <a href="https://www.adobe.com/ca/products/aftereffects.html"><img width="40" alt="After Effects" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" /></a>
   <img width="8">
 </div>
-<br>
+</details>
+
+<details>
+  <summary>Connect</summary>
+  
+</details>
+
+<details>
+  <summary>Stats</summary>
 <a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&locale=en&theme=dark"/></a>
+</details>
+
+
 
 <!---
+README Inspiritaion: 
+  - https://github.com/Coordinate-Cat/Coordinate-Cat/tree/master
+  - https://github.com/vbriand/vbriand
+  - https://github.com/hussainweb/hussainweb
+  
+Tools used:
+  - https://github.com/tandpfun/skill-icons
+  
 cool secret comment
 --->

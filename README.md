@@ -6,69 +6,96 @@
   <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Languages</h3>
+      <div align="center">
+      <h1>Languages</h1>
       <br/>
-      1
-      2
-      3
-      4
-      <br/>
-      <h3>Programs</h3>
-      <br/>
-      1
-      2
-      3
-    </td>
-    <td valign="top" width="50%">
-      <h3>Currently Learning</h3>
-      <br/>
-      1
-      2
-      3
-      <br/>
-      <h3>Interested in learning</h3>
-      <br/>
-      1
-      2
-      3
-    </td>
-  </tr>
-</table>
   <a href="">
     <img src="https://skillicons.dev/icons?i=cs"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=cpp"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=java"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=py"/></a>
+    <img width="5">
+      <br/>
+      <h1>Programs</h1>
+      <br/>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=javascript"/></a>
+    <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
+    <img width="5">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=vscode"/></a>
+    <img width="5">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=blender"/></a>
+    <img width="5">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=unity"/></a>
+    <img width="5">
+      <br/>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ps"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=pr"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=ae"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=ae"/></a>
+    <img width="5">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=ai"/></a>
+    <img width="5">
+    </td>
+  </div>
+    <td valign="top" width="50%">
+      <div align="center">
+      <h1>Currently Learning</h1>
+      <br/>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cpp"/></a>
+    <img width="5">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html"/></a>
+    <img width="5">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=css"/></a>
+    <img width="5">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=javascript"/></a>
+    <img width="5">
+      <br/>
+      <h1>Interested in learning</h1>
+      <br/>
 
   <a href="">
     <img src="https://skillicons.dev/icons?i=qt"/></a>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=css"/></a>
   <a href="">
     <img src="https://skillicons.dev/icons?i=c"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=swift"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=arch"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=arduino"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=godot"/></a>
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=unreal"/></a>
+    <img width="5">
+  </div>
+    </td>
+  </tr>
+</table>
   
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img width="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></a>
   <img width="8">
@@ -88,24 +115,7 @@
 <h3 align="left">programs</h3>
 <div align="left>
   
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=vscode"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=blender"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=unity"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=ps"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=pr"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=ae"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=ae"/></a>
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=ai"/></a>
+
   
   <a href="https://visualstudio.microsoft.com"/><img width="40" alt="Microsoft Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /></a>
   <img width="8">

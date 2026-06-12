@@ -40,7 +40,7 @@
 <br/>
 
 <details>
-<summary>Skills</summary>
+<summary>🛠️ Skills</summary>
   <div align="center">
   <table>
   <tr>
@@ -141,7 +141,7 @@
 </details>
     
 <details>
-  <summary>Stats</summary>
+  <summary>📊 Stats</summary>
 <div align="center">
 <a href="https://github.com/my-dimons">
 <img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&locale=en&theme=dark"/><img width="20"/><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=my-dimons&layout=compact&theme=dark&langs_count=10&hide=html,hlsl,asp.net,tex,shaderlab"/>

@@ -1,3 +1,34 @@
+
+<img width="350" align="left" alt="image" border-radius="50%" src="https://github.com/user-attachments/assets/be59b7d5-5b6b-4751-a967-20c68e532b33"/>
+<h3>Hey!</h3>
+
+🔥・I'm <b>mydimons</b>.
+
+🎮・A game dev, robotics nerd, and overall programming weirdo
+
+🧪・I love to experiment with code and try new things!
+
+🤔・Thinking about pursuing <b>electrical engineering</b>.
+
+🐈・cat lover :)
+
+<br/>
+
+<div align="left">
+  <a href="pawprintstudios.com">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
+  <img width="5">
+  <a href="pawprintstudios.com">
+    <img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+  <img width="5">
+  <a href="pawprintstudios.com">
+    <img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
+  
+</div>
+
+<br/>
+<br/>
+
 <h3 align="center"><i>« “A jack of all trades is a master of none, but often times better than a master of one.” »</i></h3>
 <p align="center"><i>- some person, long ago</i></p>
 
@@ -101,12 +132,7 @@
 </table>
   </div>
 </details>
-
-<details>
-  <summary>Socials</summary>
-
-</details>
-
+    
 <details>
   <summary>Stats</summary>
 <div align="center">
@@ -125,12 +151,7 @@
 </div>
 </details>
 <div align="center">
-  <a href="pawprintstudios.com">
-    <img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="pawprintstudios.com">
-    <img src="https://skillicons.dev/icons?i=discord"/></a>
-  <a href="pawprintstudios.com">
-    <img src="https://skillicons.dev/icons?i=discord"/></a>
+
 </div>
 
 <!---
@@ -139,6 +160,7 @@ README Inspiritaion:
   - https://github.com/vbriand/vbriand
   - https://github.com/hussainweb/hussainweb
   - https://github.com/Aveek-Saha/Aveek-Saha
+  - https://github.com/orhun/orhun
   
 Tools used:
   - https://github.com/tandpfun/skill-icons

@@ -113,7 +113,7 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=my-dimons&theme=dark"/>
 <br/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=my-dimons&theme=github-compact&area=true&border_color=FFFFFF&radius=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=my-dimons&theme=github-compact&area=true&radius=8&title_color=FFFFFF&border_color=FFFFFF&bg_color=00000000&point=FFFFFF"/>
 <br/>
 <br/>
 <img src="https://badges.pufler.dev/visits/my-dimons/my-dimons"/><img width="10"><img src="https://badges.pufler.dev/repos/my-dimons"/><img width="10"><img src="https://badges.pufler.dev/years/my-dimons"/><img width="10"><img src="https://badges.pufler.dev/updated/my-dimons/my-dimons"/>

@@ -1,7 +1,8 @@
 <img width="350" align="left" alt="pepper pfp" src="https://github.com/user-attachments/assets/22d507be-46dc-4ab3-9ca0-c1eda04e3661" />
 
-<h3>Hey!</h3>
+<h3><img width="30" align="left" alt="Hi" src="https://github.com/user-attachments/assets/fc71ef39-19ff-4552-8f0f-a4aba7b92964"/><img width="10"/>Hey!</h3>
 
+---
 🔥・I'm <b>mydimons</b>.
 
 🎮・A game dev, robotics nerd, and overall programming weirdo
@@ -12,6 +13,7 @@
 
 🐈・cat lover :)
 
+</div>
 <br/>
 
 <div align="left">
@@ -29,15 +31,15 @@
 
 </div>
 
+
 <br/>
-<br/>
-<br/>
+
+---
 
 <h3 align="center"><i>« “A jack of all trades is a master of none, but often times better than a master of one.” »</i></h3>
 <p align="center"><i>- some person, long ago</i></p>
 
-<br/>
-<br/>
+
 
 <details>
 <summary>🛠️ Skills</summary>

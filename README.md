@@ -1,4 +1,4 @@
-<h3 align="center"><i>“A jack of all trades is a master of none, but often times better than a master of one.”</i></h3>
+<h3 align="center"><i>« “A jack of all trades is a master of none, but often times better than a master of one.” »</i></h3>
 <p align="center"><i>- some person, long ago</i></p>
 
 <details>
@@ -100,32 +100,41 @@
 
 <details>
   <summary>Socials</summary>
+
+</details>
+
+<details>
+  <summary>Stats</summary>
+<div align="center">
+<a href="https://github.com/my-dimons">
+<img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&locale=en&theme=dark"/><img width="20"/><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=my-dimons&layout=compact&theme=dark&langs_count=10&hide=html,hlsl,asp.net,tex,shaderlab"/>
+<br/>
+<br/>
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=my-dimons&theme=dark"/>
+<br/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=my-dimons&theme=github-compact&area=true&border_color=FFFFFF&radius=8"/>
+<br/>
+<br/>
+<img src="https://badges.pufler.dev/visits/my-dimons/my-dimons"/><img width="10"><img src="https://badges.pufler.dev/repos/my-dimons"/><img width="10"><img src="https://badges.pufler.dev/years/my-dimons"/><img width="10"><img src="https://badges.pufler.dev/updated/my-dimons/my-dimons"/>
+</a>
+</div>
+</details>
+<div align="center">
   <a href="pawprintstudios.com">
     <img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="pawprintstudios.com">
     <img src="https://skillicons.dev/icons?i=discord"/></a>
   <a href="pawprintstudios.com">
     <img src="https://skillicons.dev/icons?i=discord"/></a>
-</details>
-
-<details>
-  <summary>Stats</summary>
-<a href="https://github.com/my-dimons"><img src="https://github-readme-stats.vercel.app/api?username=my-dimons&show_icons=true&include_all_commits=true&rank_icon=github&hide=stars&show=prs_merged&locale=en&theme=dark"/></a>
-  
-[![Visits Badge](https://badges.pufler.dev/visits/my-dimons/my-dimons)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/my-dimons)](https://badges.pufler.dev)
-<br/>
-[![Years Badge](https://badges.pufler.dev/years/my-dimons)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/my-dimons/my-dimons)](https://badges.pufler.dev)
-</details>
-
-
+</div>
 
 <!---
 README Inspiritaion: 
   - https://github.com/Coordinate-Cat/Coordinate-Cat/tree/master
   - https://github.com/vbriand/vbriand
   - https://github.com/hussainweb/hussainweb
+  - https://github.com/Aveek-Saha/Aveek-Saha
   
 Tools used:
   - https://github.com/tandpfun/skill-icons

@@ -10,11 +10,13 @@
 
 🔥・I'm <b>mydimons</b>.
 
-🎮・A game dev, robotics nerd, and overall programming weirdo.
+🎮・Game dev, robotics nerd, and overall programming enthusiast
+
+<!-- 🤖・Programming head for FRC team 7287 -->
 
 🧪・I love to experiment with code and try new things!
 
-🤔・Thinking about pursuing <b>electrical engineering</b>.
+🤔・Thinking about pursuing <b>Electrical Engineering</b>
 
 🐈・Cat lover :)
 

@@ -1,4 +1,5 @@
-<img width="350" align="left" alt="pepper pfp" src="https://github.com/user-attachments/assets/22d507be-46dc-4ab3-9ca0-c1eda04e3661" />
+<img width="350" align="left" alt="cat" src="https://github.com/user-attachments/assets/786554a3-c135-422b-b924-498472e02be5"/>
+
 
 <h3>
   <img width="30" align="left" alt="Hi" src="https://github.com/user-attachments/assets/fc71ef39-19ff-4552-8f0f-a4aba7b92964"/>

@@ -3,11 +3,12 @@
 
 <details>
 <summary>Skills</summary>
+  <div align="center">
   <table>
   <tr>
     <td valign="top" width="50%">
       <div align="center">
-      <h1>Languages</h1>
+      <h1>🔥 Languages</h1>
       <br/>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
     <img src="https://skillicons.dev/icons?i=cs"/></a>
@@ -19,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=py"/></a>
     <img width="5">
       <br/>
-      <h1>Programs</h1>
+      <h1>⚙️ Programs</h1>
       <br/>
   <a href="https://visualstudio.microsoft.com">
     <img src="https://skillicons.dev/icons?i=visualstudio"/></a>
@@ -53,7 +54,7 @@
   </div>
     <td valign="top" width="50%">
       <div align="center">
-      <h1>Currently Learning</h1>
+      <h1>📖 Learning</h1>
       <br/>
   <a href="">
     <img src="https://skillicons.dev/icons?i=cpp"/></a>
@@ -68,7 +69,7 @@
     <img src="https://skillicons.dev/icons?i=javascript"/></a>
     <img width="5">
       <br/>
-      <h1>Interested in learning</h1>
+      <h1>🤔 Interested</h1>
       <br/>
 
   <a href="">
@@ -92,10 +93,13 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=unreal"/></a>
     <img width="5">
+    <br/>
+    <br/>
   </div>
     </td>
   </tr>
 </table>
+  </div>
 </details>
 
 <details>

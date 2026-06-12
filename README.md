@@ -147,7 +147,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=my-dimons&theme=github-compact&area=true&radius=8&title_color=FFFFFF&border_color=FFFFFF&bg_color=00000000&point=FFFFFF"/>
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://badges.pufler.dev/visits/my-dimons/my-dimons"/>
 <img src="https://badges.pufler.dev/repos/my-dimons"/>

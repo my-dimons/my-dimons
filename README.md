@@ -112,7 +112,7 @@
 
   <a href="">
     <img src="https://skillicons.dev/icons?i=qt"/></a>
-  <a href="">
+    <img width="5">
   <a href="">
     <img src="https://skillicons.dev/icons?i=c"/></a>
     <img width="5">

@@ -1,5 +1,5 @@
+<img width="350" align="left" alt="pepper pfp" src="https://github.com/user-attachments/assets/22d507be-46dc-4ab3-9ca0-c1eda04e3661" />
 
-<img width="350" align="left" alt="image" border-radius="50%" src="https://github.com/user-attachments/assets/be59b7d5-5b6b-4751-a967-20c68e532b33"/>
 <h3>Hey!</h3>
 
 🔥・I'm <b>mydimons</b>.
@@ -15,22 +15,29 @@
 <br/>
 
 <div align="left">
-  <a href="pawprintstudios.com">
+  <a href="https://www.youtube.com/@my-dimons">
+    <img align="center" width="50" src="https://github.com/user-attachments/assets/85e7b25f-c207-4a5f-bd38-6ee7569e3b24"/></a>
+  <img width="5">
+  <a href="https://www.instagram.com/my.dimons/">
     <img align="center" src="https://skillicons.dev/icons?i=instagram"/></a>
   <img width="5">
-  <a href="pawprintstudios.com">
+  <a href="https://discord.gg/CVNW9FnzJg">
     <img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
   <img width="5">
-  <a href="pawprintstudios.com">
-    <img align="center" src="https://skillicons.dev/icons?i=discord"/></a>
-  
+  <a href="linktr.ee/mydimons">
+    <img align="center" width="50" src="https://github.com/user-attachments/assets/123a66cf-39d3-428c-9df6-63fd77baed83"/></a>
+
 </div>
 
+<br/>
 <br/>
 <br/>
 
 <h3 align="center"><i>« “A jack of all trades is a master of none, but often times better than a master of one.” »</i></h3>
 <p align="center"><i>- some person, long ago</i></p>
+
+<br/>
+<br/>
 
 <details>
 <summary>Skills</summary>

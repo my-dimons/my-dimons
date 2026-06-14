@@ -2,7 +2,7 @@
 
 
 <h3>
-  <img width="30" align="left" alt="Hi" src="resources/Waving.gif"/>
+  <img width="30" align="left" alt="Hi" src="resources/waving.gif"/>
   <img width="5">
   Hey!
 </h3>
@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://www.youtube.com/@my-dimons">
-    <img width="50" src="resources/icons/Youtube.png"/></a>
+    <img width="50" src="resources/icons/youtube.png"/></a>
   <img width="5">
   <a href="https://www.instagram.com/my.dimons/">
     <img width="50" src="https://skillicons.dev/icons?i=instagram"/></a>
@@ -34,7 +34,7 @@
     <img width="50" src="https://skillicons.dev/icons?i=discord"/></a>
   <img width="5">
   <a href="https://linktr.ee/mydimons">
-    <img width="50" src="resources/icons/Linktree.png"/></a>
+    <img width="50" src="resources/icons/linktree.png"/></a>
 </p>
 
 ---
@@ -72,7 +72,7 @@
   <img width="5">
 <img width="50" src="https://skillicons.dev/icons?i=unity"/>
   <img width="5">
-<img width="50" src="resources/icons/WPILib.png" />
+<img width="50" src="resources/icons/wpilib.png" />
 
 <br/>
 

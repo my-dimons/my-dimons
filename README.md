@@ -56,6 +56,8 @@
 
 <img width="50" src="https://skillicons.dev/icons?i=cs"/>
   <img width="5">
+<img width="50" src="https://skillicons.dev/icons?i=cpp"/>
+  <img width="5">
 <img src="https://skillicons.dev/icons?i=java"/>
   <img width="5">
 <img src="https://skillicons.dev/icons?i=py"/>
@@ -87,14 +89,7 @@
 <img width="50" src="https://skillicons.dev/icons?i=ai"/>
 
 <h1>📖 Learning</h1>
-
-<img width="50" src="https://skillicons.dev/icons?i=cpp"/>
-  <img width="5">
-<img width="50" src="https://skillicons.dev/icons?i=html"/>
-  <img width="5">
-<img width="50" src="https://skillicons.dev/icons?i=css"/>
-  <img width="5">
-<img width="50" src="https://skillicons.dev/icons?i=javascript"/>
+<i>'NULL POINTER EXCEPTION'</i>
 
 <br/>
 
@@ -113,6 +108,12 @@
 <img width="50" src="https://skillicons.dev/icons?i=godot"/>
   <img width="5">
 <img width="50" src="https://skillicons.dev/icons?i=unreal"/>
+  <img width="5">
+<img width="50" src="https://skillicons.dev/icons?i=html"/>
+  <img width="5">
+<img width="50" src="https://skillicons.dev/icons?i=css"/>
+  <img width="5">
+<img width="50" src="https://skillicons.dev/icons?i=javascript"/>
 
 <br/>
 <br/>

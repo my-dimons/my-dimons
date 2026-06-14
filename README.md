@@ -1,6 +1,5 @@
 <img width="350" align="left" alt="cat" src="resources/profile/cat3.png"/>
 
-
 <h3>
   <img width="30" align="left" alt="Hi" src="resources/wave.gif"/>
   <img width="5">
@@ -35,6 +34,8 @@
   <img width="5">
   <a href="https://linktr.ee/mydimons">
     <img width="50" src="resources/icons/linktree.png"/></a>
+  <a href="https://pawprintstudios.ca">
+    <img width="50" src="resources/icons/pawprintstudios.png"/></a>
 </p>
 
 ---

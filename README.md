@@ -50,82 +50,70 @@
 <details>
 <summary>🛠️ Skills</summary>
 
-<div align="center">
-
-<table>
-<tr>
-
-<td valign="top" width="50%">
+<div align="left">
 
 <h1>🔥 Languages</h1>
 
-<img src="https://skillicons.dev/icons?i=cs"/>
+<img width="50" src="https://skillicons.dev/icons?i=cs"/>
   <img width="5">
 <img src="https://skillicons.dev/icons?i=java"/>
   <img width="5">
 <img src="https://skillicons.dev/icons?i=py"/>
 
-<br/><br/>
+<br/>
 
 <h1>⚙️ Programs</h1>
 
-<img src="https://skillicons.dev/icons?i=visualstudio"/>
+<img width="50" src="https://skillicons.dev/icons?i=visualstudio"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img width="50" src="https://skillicons.dev/icons?i=vscode"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=blender"/>
+<img width="50" src="https://skillicons.dev/icons?i=blender"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=unity"/>
+<img width="50" src="https://skillicons.dev/icons?i=unity"/>
+  <img width="5">
+<img width="50" src="https://github.com/user-attachments/assets/eab8a26d-3031-4483-a480-8f9330578cd2" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ps"/>
+<img width="50" src="https://skillicons.dev/icons?i=ps"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=pr"/>
+<img width="50" src="https://skillicons.dev/icons?i=pr"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=ae"/>
+<img width="50" src="https://skillicons.dev/icons?i=ae"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=ai"/>
-
-</td>
-
-<td valign="top" width="50%">
+<img width="50" src="https://skillicons.dev/icons?i=ai"/>
 
 <h1>📖 Learning</h1>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img width="50" src="https://skillicons.dev/icons?i=cpp"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=html"/>
+<img width="50" src="https://skillicons.dev/icons?i=html"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=css"/>
+<img width="50" src="https://skillicons.dev/icons?i=css"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img width="50" src="https://skillicons.dev/icons?i=javascript"/>
 
-<br/><br/>
+<br/>
 
 <h1>🤔 Interested In</h1>
 
-<img src="https://skillicons.dev/icons?i=qt"/>
+<img width="50" src="https://skillicons.dev/icons?i=qt"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=c"/>
+<img width="50" src="https://skillicons.dev/icons?i=c"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=swift"/>
+<img width="50" src="https://skillicons.dev/icons?i=swift"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=arch"/>
+<img width="50" src="https://skillicons.dev/icons?i=arch"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=arduino"/>
+<img width="50" src="https://skillicons.dev/icons?i=arduino"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=godot"/>
+<img width="50" src="https://skillicons.dev/icons?i=godot"/>
   <img width="5">
-<img src="https://skillicons.dev/icons?i=unreal"/>
+<img width="50" src="https://skillicons.dev/icons?i=unreal"/>
 
 <br/>
 <br/>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
@@ -177,7 +165,7 @@ Tools used:
 
 TODO:
   - Add icons for:
-    - WPILib
+    - Audacity
 
 cool secret comment
 -->

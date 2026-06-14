@@ -1,8 +1,8 @@
-<img width="350" align="left" alt="cat" src="https://github.com/user-attachments/assets/786554a3-c135-422b-b924-498472e02be5"/>
+<img width="350" align="left" alt="cat" src="resources/profile/cat3.png"/>
 
 
 <h3>
-  <img width="30" align="left" alt="Hi" src="https://github.com/user-attachments/assets/fc71ef39-19ff-4552-8f0f-a4aba7b92964"/>
+  <img width="30" align="left" alt="Hi" src="resources/Waving.gif"/>
   <img width="5">
   Hey!
 </h3>
@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://www.youtube.com/@my-dimons">
-    <img width="50" src="https://github.com/user-attachments/assets/85e7b25f-c207-4a5f-bd38-6ee7569e3b24"/></a>
+    <img width="50" src="resources/icons/Youtube.png"/></a>
   <img width="5">
   <a href="https://www.instagram.com/my.dimons/">
     <img width="50" src="https://skillicons.dev/icons?i=instagram"/></a>
@@ -34,7 +34,7 @@
     <img width="50" src="https://skillicons.dev/icons?i=discord"/></a>
   <img width="5">
   <a href="https://linktr.ee/mydimons">
-    <img width="50" src="https://github.com/user-attachments/assets/123a66cf-39d3-428c-9df6-63fd77baed83"/></a>
+    <img width="50" src="resources/icons/Linktree.png"/></a>
 </p>
 
 ---
@@ -72,7 +72,7 @@
   <img width="5">
 <img width="50" src="https://skillicons.dev/icons?i=unity"/>
   <img width="5">
-<img width="50" src="https://github.com/user-attachments/assets/eab8a26d-3031-4483-a480-8f9330578cd2" />
+<img width="50" src="resources/icons/WPILib.png" />
 
 <br/>
 

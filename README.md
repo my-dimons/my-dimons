@@ -34,6 +34,7 @@
   <img width="5">
   <a href="https://linktr.ee/mydimons">
     <img width="50" src="resources/icons/linktree.png"/></a>
+  <img width="5">
   <a href="https://pawprintstudios.ca">
     <img width="50" src="resources/icons/pawprintstudios.png"/></a>
 </p>

@@ -19,7 +19,7 @@
 
 🤔・Thinking about pursuing <b>Electrical Engineering</b>
 
-🐈・Cat lover :)
+🐈・Cat lover :3
 
 <br/>
 

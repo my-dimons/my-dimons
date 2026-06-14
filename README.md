@@ -16,7 +16,7 @@
 
 🧪・I love to experiment with code and try new things!
 
-🤔・Thinking about pursuing <b>Electrical Engineering</b>
+🤔・Thinking about pursuing <b>Electrical Engineering</b> <i>or</i> <b>Software Engineering</b>
 
 🐈・Cat lover :3
 

@@ -2,7 +2,7 @@
 
 
 <h3>
-  <img width="30" align="left" alt="Hi" src="resources/waving.gif"/>
+  <img width="30" align="left" alt="Hi" src="resources/wave.gif"/>
   <img width="5">
   Hey!
 </h3>

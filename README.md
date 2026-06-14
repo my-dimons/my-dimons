@@ -149,11 +149,11 @@
 <img src="https://badges.pufler.dev/visits/my-dimons/my-dimons"/>
 <img src="https://badges.pufler.dev/repos/my-dimons"/>
 <img src="https://badges.pufler.dev/years/my-dimons"/>
-<img src="https://badges.pufler.dev/updated/my-dimons/my-dimons"/>
 
 </div>
-
 </details>
+
+<img src="https://badges.pufler.dev/updated/my-dimons/my-dimons"/>
 
 <!--
 README Inspiration:

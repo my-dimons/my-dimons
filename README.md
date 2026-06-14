@@ -72,9 +72,9 @@
   <img width="5">
 <img width="50" src="https://skillicons.dev/icons?i=unity"/>
   <img width="5">
-<img width="50" src="resources/icons/wpilib.png" />
-  <img width="5">
 <img width="50" src="resources/icons/audacity.png" />
+  <img width="5">
+<img width="50" src="resources/icons/wpilib.png" />
 
 <br/>
 

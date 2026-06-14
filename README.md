@@ -54,7 +54,7 @@
 
 <div align="left">
 
-<h1>🔥 Languages</h1>
+<h1>🔥 Languages & Frameworks</h1>
 
 <img width="50" src="https://skillicons.dev/icons?i=cs"/>
   <img width="5">
@@ -66,6 +66,12 @@
 
 <br/>
 
+<img width="50" src="https://skillicons.dev/icons?i=unity"/>
+  <img width="5">
+<img width="50" src="resources/icons/wpilib.png" />
+
+<br/>
+
 <h1>⚙️ Programs</h1>
 
 <img width="50" src="https://skillicons.dev/icons?i=visualstudio"/>
@@ -74,11 +80,7 @@
   <img width="5">
 <img width="50" src="https://skillicons.dev/icons?i=blender"/>
   <img width="5">
-<img width="50" src="https://skillicons.dev/icons?i=unity"/>
-  <img width="5">
 <img width="50" src="resources/icons/audacity.png" />
-  <img width="5">
-<img width="50" src="resources/icons/wpilib.png" />
 
 <br/>
 

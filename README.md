@@ -8,7 +8,7 @@
 
 ---
 
-🔥・I'm <b>mydimons / Kiera</b>.
+🔥・I'm <b>mydimons</b>.
 
 🎮・Game dev, robotics nerd, and overall programming enthusiast
 
